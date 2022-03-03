@@ -25,8 +25,8 @@ ukrn_email: training@ukrn.org
 ukrn_site: https://ukrn.org/
 repository: <USERNAME>/<PROJECT>
 carpentries_site: https://carpentries.org/
-pre_survey: https://docs.google.com/forms/d/e/1FAIpQLSe7FsMaXaxxQwAZdT5XEekHfqAahpCMFy9WC4aH54CRfpp1SQ/viewform?usp=pp_url&entry.2087576176=
-post_survey: https://docs.google.com/forms/d/e/1FAIpQLSfinqOvdQrp8QicXv48177mS-NUxlhJPY_AW3F7SiWZ-oIW-w/viewform?usp=pp_url&entry.579599320=
+pre_survey: https://docs.google.com/forms/d/e/1FAIpQLScWW7rKXwzUG7PbCkzUH9Vxycg2i8Drk_cJqC_58F1WY1N1bA/viewform?usp=pp_url&entry.2087576176=
+post_survey: https://docs.google.com/forms/d/e/1FAIpQLSf1UveYPOWn5zV7DkKO7a5tpNpBqYfEF6rLkDUSurIDe5wwFg/viewform?usp=pp_url&entry.579599320=
 collections:
   episodes:
     output: true
