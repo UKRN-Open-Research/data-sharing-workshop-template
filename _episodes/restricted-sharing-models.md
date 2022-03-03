@@ -1,7 +1,7 @@
 ---
 title: Restricted sharing models
 teaching: 10
-exercises: 20
+exercises: null
 duration: null
 summary: Considering options for if you cannot publish your data openly.
 questions:
